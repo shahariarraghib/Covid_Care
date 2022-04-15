@@ -1,0 +1,12 @@
+.image-height{
+    height: 800px;
+    filter: blur(8px);
+    -webkit-filter: blur(2px);
+}
+
+.position{
+    margin-bottom: 300px;
+}
+.display{
+    font-size: 70px;
+}
