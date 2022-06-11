@@ -1,1 +1,1 @@
-https://covid-corner-login-system.web.app/blog
+https://covid-corner-login-system.web.app/
